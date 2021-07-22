@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512421602576",
+    "project_id": "mytestapplication-8c4f6",
+    "storage_bucket": "mytestapplication-8c4f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512421602576:android:0c3b59c2de1b44382bb195",
+        "android_client_info": {
+          "package_name": "com.umar.mytestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512421602576-c7bae10o8403ra402ml4v3gku3j4v6h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZNXCR-pIahyAGmfS-WaGJ0DjTNigZiAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512421602576-c7bae10o8403ra402ml4v3gku3j4v6h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
